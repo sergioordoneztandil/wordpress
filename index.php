@@ -19,3 +19,7 @@ require( dirname( __FILE__ ) . '/wp-blog-header.php' );
 /*
 This comment was made on Branch dev
 */
+
+/*
+This comment was made on Branch dev commit 2
+*/
